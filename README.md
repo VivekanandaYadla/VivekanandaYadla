@@ -54,5 +54,5 @@ I am currently a Student at IIT Delhi
   </a>
 </p>
 <p align='center'>
-I am currently a Student at IIT Delhi
+LinkedIn     Instagram
 </p>
