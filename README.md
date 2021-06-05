@@ -9,9 +9,9 @@ I am currently a Student at IIT Delhi
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=cheems2k1&count_private=true&show_icons=true&theme=chartreuse-dark" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vivekanandayadla&count_private=true&show_icons=true&theme=chartreuse-dark" width="400"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheems2k1&count_private=true&layout=compact&theme=highcontrast" width="335"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekanandayadla&count_private=true&layout=compact&theme=highcontrast" width="335"></a>
 </p>
 
 
@@ -50,7 +50,7 @@ I am currently a Student at IIT Delhi
     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_dumb_physicist_/">
-    <img src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg" width="40" />        
+    <img src="file:///D:/Downloads/pngjoy.com_social-media-new-instagram-logo-png-transparent-background_718475.html" width="40" />        
   </a>
 </p>
 
