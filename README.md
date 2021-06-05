@@ -15,34 +15,34 @@ I am currently a Student at IIT Delhi
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:paulkadali@gmail.com'>paulkadali@gmail.com</a>
+  📫 How to reach me: <a href='mailto:vivekanandayadla@gmail.com'>vivekanandayadla@gmail.com</a>
   <a href="https://www.linkedin.com/in/vivekananda-yadla/">
-    <img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622897418~hmac=28965cc2aac4119feb1e9fdbd7f6391f" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/_dumb_physicist_/">
-    <img src="https://image.flaticon.com/icons/png/512/1384/1384063.png" />        
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 - My skills:
 <p align='center'>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/800px-C_Programming_Language.svg.png"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/800px-C_Programming_Language.svg.png" width="30"></a>
    &nbsp;&nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="30"></a>
    &nbsp;&nbsp;
-  <a href="#"><img src="https://i0.wp.com/evomics.org/wp-content/uploads/2011/09/python-logo-glassy.png"></a>
+  <a href="#"><img src="https://i0.wp.com/evomics.org/wp-content/uploads/2011/09/python-logo-glassy.png" width="30"></a>
    &nbsp;&nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width="30"></a>
      &nbsp;&nbsp;
-  <a href="#"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></a>
+  <a href="#"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="30"></a>
    &nbsp;&nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" width="30"></a>
    &nbsp;&nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/768px-Adobe_Photoshop_Express_logo.svg.png"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/768px-Adobe_Photoshop_Express_logo.svg.png" width="30"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://teaching.cambriancollege.ca/wp-content/uploads/2018/07/Adobe-Illustrator-Featured.jpg"></a>
-</p
+  <a href="#"><img src="https://teaching.cambriancollege.ca/wp-content/uploads/2018/07/Adobe-Illustrator-Featured.jpg" width="30"></a>
+</p>
 
-<p align='right'>
+<p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/repos/cheems2k1"></a>
   <a href="#"><img src="https://badges.pufler.dev/years/cheems2k1"></a>
 </p>
