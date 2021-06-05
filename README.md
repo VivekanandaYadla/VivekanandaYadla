@@ -52,6 +52,7 @@ I am currently a Student at IIT Delhi
   <a href="https://www.instagram.com/_dumb_physicist_/" target="_blank"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHOhhwWQZNbSclpqxVrB4fNYa8F5K9Ehl9A&usqp=CAU" width="45" />    
   </a>
-</p align='center'>
-                                                              LinkedIn     Instagram
+</p>
+<p align='center'>
+I am currently a Student at IIT Delhi
 </p>
