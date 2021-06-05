@@ -50,8 +50,9 @@ I am currently a Student at IIT Delhi
     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_dumb_physicist_/" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHOhhwWQZNbSclpqxVrB4fNYa8F5K9Ehl9A&usqp=CAU" width="45" /><figcaption> <i> Instagram </i> </figcaption>      
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHOhhwWQZNbSclpqxVrB4fNYa8F5K9Ehl9A&usqp=CAU" width="45" />    
   </a>
 </p>
-
-
+<p align='center'>
+<p style="color:blue">LinkedIn</p>  <p style="color:pink">Instagram</p>
+</p>
