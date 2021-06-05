@@ -14,15 +14,9 @@ I am currently a Student at IIT Delhi
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheems2k1&count_private=true&layout=compact&theme=highcontrast" width="335"></a>
 </p>
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:vivekanandayadla@gmail.com'>vivekanandayadla@gmail.com</a>
-  <a href="https://www.linkedin.com/in/vivekananda-yadla/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_dumb_physicist_/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-</p>
+
+
+
 - My skills:
 <p align='center'>
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/800px-C_Programming_Language.svg.png" width="30"></a>
@@ -39,7 +33,7 @@ I am currently a Student at IIT Delhi
    &nbsp;&nbsp;
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/768px-Adobe_Photoshop_Express_logo.svg.png" width="30"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://teaching.cambriancollege.ca/wp-content/uploads/2018/07/Adobe-Illustrator-Featured.jpg" width="30"></a>
+  <a href="#"><img src="https://img.pngio.com/buy-adobe-education-contact-multiblue-and-receive-discounts-for-is-there-png-in-adobe-illustrator-600_600.png" width="30"></a>
 </p>
 
 <p align='center'>
@@ -47,8 +41,14 @@ I am currently a Student at IIT Delhi
   <a href="#"><img src="https://badges.pufler.dev/years/cheems2k1"></a>
 </p>
 
-
-
-
+<p align='center'>
+  📫 How to reach me: <a href='mailto:vivekanandayadla@gmail.com'>vivekanandayadla@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vivekananda-yadla/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_dumb_physicist_/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
