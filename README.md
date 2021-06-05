@@ -42,15 +42,15 @@ I am currently a Student at IIT Delhi
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href="mailto:vivekanandayadla@gmail.com">vivekanandayadla@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  📫 How to reach me: <a href="mailto:vivekanandayadla@gmail.com" target="_blank" rel="noopener noreferrer">vivekanandayadla@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/vivekananda-yadla/">
+  <a href="https://www.linkedin.com/in/vivekananda-yadla/" target="_blank" rel="noopener noreferrer">LINKEDIN
     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_dumb_physicist_/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHOhhwWQZNbSclpqxVrB4fNYa8F5K9Ehl9A&usqp=CAU" width="40" />        
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_dumb_physicist_/" target="_blank" rel="noopener noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHOhhwWQZNbSclpqxVrB4fNYa8F5K9Ehl9A&usqp=CAU" width="45" />        
   </a>
 </p>
 
