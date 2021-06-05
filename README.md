@@ -37,8 +37,8 @@ I am currently a Student at IIT Delhi
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/repos/cheems2k1"></a>
-  <a href="#"><img src="https://badges.pufler.dev/years/cheems2k1"></a>
+  <a href="#"><img src="https://badges.pufler.dev/repos/vivekanandayadla"></a>
+  <a href="#"><img src="https://badges.pufler.dev/years/vivekanandayadla"></a>
 </p>
 
 <p align='center'>
