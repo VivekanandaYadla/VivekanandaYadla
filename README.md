@@ -48,11 +48,11 @@ I am currently a Student at IIT Delhi
 <p align='center'>
   <a href="https://www.linkedin.com/in/vivekananda-yadla/" target="_blank"> 
     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_dumb_physicist_/" target="_blank"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHOhhwWQZNbSclpqxVrB4fNYa8F5K9Ehl9A&usqp=CAU" width="45" />    
   </a>
 </p>
 <p align='center'>
-LinkedIn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram
+<p style="color:blue">LinkedIn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p style="color:pink">Instagram</p>
 </p>
