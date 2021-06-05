@@ -53,6 +53,6 @@ I am currently a Student at IIT Delhi
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHOhhwWQZNbSclpqxVrB4fNYa8F5K9Ehl9A&usqp=CAU" width="45" />    
   </a>
 </p>
-<p align='center'>
-<p style="color:blue">LinkedIn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p style="color:pink">Instagram</p>
+<p align='center'style="color:blue">
+LinkedIn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram
 </p>
