@@ -46,11 +46,11 @@ I am currently a Student at IIT Delhi
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/vivekananda-yadla/" target="_blank"> #LinkedIn
+  <a href="https://www.linkedin.com/in/vivekananda-yadla/" target="_blank"> 
     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_dumb_physicist_/" target="_blank"> #Instagram
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHOhhwWQZNbSclpqxVrB4fNYa8F5K9Ehl9A&usqp=CAU" width="45" />        
+  <a href="https://www.instagram.com/_dumb_physicist_/" target="_blank"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHOhhwWQZNbSclpqxVrB4fNYa8F5K9Ehl9A&usqp=CAU" width="45" /><figcaption> <i> Instagram </i> </figcaption>      
   </a>
 </p>
 
