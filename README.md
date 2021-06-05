@@ -53,5 +53,5 @@ I am currently a Student at IIT Delhi
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHOhhwWQZNbSclpqxVrB4fNYa8F5K9Ehl9A&usqp=CAU" width="45" />    
   </a>
 </p align='center'>
-   LinkedIn     Instagram
+                                                              LinkedIn     Instagram
 </p>
