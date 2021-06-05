@@ -42,12 +42,15 @@ I am currently a Student at IIT Delhi
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:vivekanandayadla@gmail.com'>vivekanandayadla@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  📫 How to reach me: <a href="mailto:vivekanandayadla@gmail.com">vivekanandayadla@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align='center'>
   <a href="https://www.linkedin.com/in/vivekananda-yadla/">
-    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_dumb_physicist_/">
-    <img src="https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo-1024x1024.jpg" width="50" />        
+    <img src="https://i.pinimg.com/originals/72/a3/d9/72a3d9408d41335f39e9f014dc35cf44.jpg" width="40" />        
   </a>
 </p>
 
