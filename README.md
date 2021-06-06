@@ -50,7 +50,7 @@ I am currently a Student at IIT Delhi
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href="mailto:vivekanandayadla@gmail.com" target="_blank" rel="noopener noreferrer">vivekanandayadla@gmail.com</a>
+  📫 How to reach me: <a href="mailto:vivekanandayadla@gmail.com">vivekanandayadla@gmail.com</a>
 </p>
 
 <p align='center'>
@@ -64,7 +64,7 @@ I am currently a Student at IIT Delhi
    <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-facebook-4.png" width="40"alt="Facebook"/>     
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://twitter.com/NoobCoder14" target="_blank"> 
-   <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-4.png" width="40" alt="Twitter" />     
+   <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-4.png" width="40" alt="Twitter" class="rounded-corners"/>     
   </a>
 </p>
 
