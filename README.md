@@ -54,6 +54,11 @@ I am currently a Student at IIT Delhi
 </p>
 
 <p align='center'>
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
   <a href="https://www.linkedin.com/in/vivekananda-yadla/" target="_blank"> 
     <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-4.png" width="40" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
