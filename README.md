@@ -34,11 +34,11 @@ I am currently a Student at IIT Delhi
   &nbsp;&nbsp;
   <a href="#"><img src="https://img.pngio.com/buy-adobe-education-contact-multiblue-and-receive-discounts-for-is-there-png-in-adobe-illustrator-600_600.png" width="50"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://w7.pngwing.com/pngs/970/403/png-transparent-tux-linux-mint-logo-linux-logo-vertebrate-bird.png" width="50"></a>
+  <a href="#"><img src="https://www.clipartmax.com/png/middle/180-1805592_ubuntu-logo-clipart-ubuntu-transparent.png" width="50"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="![image](https://user-images.githubusercontent.com/79036156/120911736-4b4b5b80-c6a7-11eb-92c0-7b5667b3ba34.png)" width="50"></a>
+  <a href="#"><img src="" width="50"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAASFBMVEUAAAD////w8PAZGRmampqdnZ2Xl5dcXFzz8/OUlJTMzMz6+vpWVlbOzs5ZWVlQUFATExMWFhaMjIxHR0cICAi5ubnr6+s3NzcBUeSlAAACAklEQVR4nO3cW3bCMAxFUUh4BBpeLW3nP9P+I390xQqyr84egbSKaltyvNkAAAAAAAAAAAAAAAAAAAAAAAAAABDuc//qFB2Ss+PWOETH5OxgU5yjY3J2NhlOY3RMvu6DSfESHZOzWb8UTzbFW3RMzvRLcbSleI6OydnV/k7VFv4EpXixpXiPjsnXg1IUUCjFBBvU6JC8TRlLMcEG9Rodk7NCKYqtioVSVDsr3uzvdBcdk7NCKR6jY3JmS3F4RMfk665fil8pV0VKsTcJ2jaFVTFBKaqdFW3bZhDboBaGGWqlWDgrJtigJuigRofkTX+umKBtk2DEb0vxIzokb/pnxQQj/kIpJuigPqNjckYpCkiwKurftklw8S1B2+bbpqj1O5X/G+rXofz/Uvn1UH9PI78vlT9byJ8PKcLuyffa5FdC/Z63/HZUfvYkPz+UnwHrz/Hl72LI36eRb8zo32uTv5sof79U/o6w/j1virB3+t/MJCxCsW/X5L8/1G/MyH8HLP8tt/yZsOJNhee40KoJvap5F2OehkV+1kzIqHnbpPDm27+8dQhS1R3tIcO6h006yLCyMdNBhpU3ZtrPsHZE0XyG1cP61jOsv7bWeob119Yaz9BhWN92hh5v0C7NcLtGQobHO8K/+90iYsdrAAAAAAAAAAAAAAAAAAAAAAAAAECf/gCz+hXI+m8XmAAAAABJRU5ErkJggg==" width="50"></a>
+  <a href="#"><img src="https://play-lh.googleusercontent.com/m3oqSZCwmitiZ-Im-CQu_rqT5eLHilOp5IudBynv3COJUumFzuQaP2dgTDxRL_03f4x2=s180-rw" width="50"></a>
   &nbsp;&nbsp;
   <a href="#"><img src="https://vulndetect.org/assets/uploads/files/1541583181315-cygwin-terminal.ico" width="50"></a>
   &nbsp;&nbsp;
@@ -55,10 +55,16 @@ I am currently a Student at IIT Delhi
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/vivekananda-yadla/" target="_blank"> 
-    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="40"/>
+    <img class="icon-social m-2" src="https://iconmonstr.com/linkedin-4-svg/" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_dumb_physicist_/" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHOhhwWQZNbSclpqxVrB4fNYa8F5K9Ehl9A&usqp=CAU" width="45" />    
+   <img class="icon-social m-2" src="https://iconmonstr.com/instagram-14-svg/" alt="Instagram"/>     
+  </a>
+<a href="https://www.facebook.com/vivekanandayadla/" target="_blank"> 
+   <img class="icon-social m-2" src="https://iconmonstr.com/facebook-4-svg/" alt="Facebook"/>     
+  </a>
+ <a href="https://twitter.com/NoobCoder14" target="_blank"> 
+   <img class="icon-social m-2" src="https://iconmonstr.com/twitter-4-svg/" alt="Twitter"/>     
   </a>
 </p>
 <p align='center'style="color:blue">
