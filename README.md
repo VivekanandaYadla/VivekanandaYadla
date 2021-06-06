@@ -38,10 +38,6 @@ I am currently an UG Student at <a href="#"><img src="https://upload.wikimedia.o
   &nbsp;&nbsp;
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1024px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="53"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg/1920px-Logo-ubuntu_no%28r%29-black_orange-hex.svg.png" height="50"></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="50"></a>
-  &nbsp;&nbsp;
   <a href="#"><img src="https://play-lh.googleusercontent.com/m3oqSZCwmitiZ-Im-CQu_rqT5eLHilOp5IudBynv3COJUumFzuQaP2dgTDxRL_03f4x2=s180-rw" width="50"></a>
   &nbsp;&nbsp;
   <a href="#"><img src="https://vulndetect.org/assets/uploads/files/1541583181315-cygwin-terminal.ico" width="50"></a>
