@@ -1,19 +1,11 @@
 ### Hi there 👋
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-</head>
+
 
 <h1 align='center'>
   I am Vivekananda Yadla ✌ 
 </h1>
 <p align='center'>
-I am currently a Student at IIT Delhi
+I am currently a Student at <a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/330px-Indian_Institute_of_Technology_Delhi_Logo.svg.png" width="30"></a> IIT Delhi
 </p>
 
 <p align='center'>
@@ -30,7 +22,7 @@ I am currently a Student at IIT Delhi
   &nbsp;&nbsp;
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="50"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://i0.wp.com/evomics.org/wp-content/uploads/2011/09/python-logo-glassy.png" width="60"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1920px-Python_logo_and_wordmark.svg.png" height="50"></a>
   &nbsp;&nbsp;
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width="60"></a>
   &nbsp;&nbsp;
@@ -44,7 +36,7 @@ I am currently a Student at IIT Delhi
   &nbsp;&nbsp;
   <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1guba_kk8uVqGpe53br7MPAw3GxyFs6BqQSRa8O7FJx3j6fhoZtqZdRpSsJnSnFMIFy4&usqp=CAU" width="50"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2013/240/iconmonstr-linux-os-4.png" width="50"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="50"></a>
   &nbsp;&nbsp;
   <a href="#"><img src="https://play-lh.googleusercontent.com/m3oqSZCwmitiZ-Im-CQu_rqT5eLHilOp5IudBynv3COJUumFzuQaP2dgTDxRL_03f4x2=s180-rw" width="50"></a>
   &nbsp;&nbsp;
@@ -64,16 +56,16 @@ I am currently a Student at IIT Delhi
 <p align='center'>
 
   <a href="https://www.linkedin.com/in/vivekananda-yadla/" target="_blank"> 
-    <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-4.png" width="40" alt="LinkedIn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1920px-LinkedIn_Logo.svg.png" height="40" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_dumb_physicist_/" target="_blank"> 
-   <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-instagram-14.png" width="40" alt="Instagram"/>     
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" width="40" alt="Instagram"/>     
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/vivekanandayadla/" target="_blank"> 
-   <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-facebook-4.png" width="40"alt="Facebook"/>     
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/800px-Facebook_f_logo_%282019%29.svg.png" width="40"alt="Facebook"/>     
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://twitter.com/NoobCoder14" target="_blank"> 
-   <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-4.png" width="40" alt="Twitter" class="rounded-corners"/>     
+   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_Logo_as_of_2021.svg/1024px-Twitter_Logo_as_of_2021.svg.png" width="40" alt="Twitter" class="rounded-corners"/>     
   </a>
 </p>
 
