@@ -34,11 +34,11 @@ I am currently an UG Student at <a href="#"><img src="https://upload.wikimedia.o
   &nbsp;&nbsp;
   <a href="#"><img src="https://img.pngio.com/buy-adobe-education-contact-multiblue-and-receive-discounts-for-is-there-png-in-adobe-illustrator-600_600.png" width="50"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png" width="50"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png" width="53"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1024px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="50"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1024px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="53"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1guba_kk8uVqGpe53br7MPAw3GxyFs6BqQSRa8O7FJx3j6fhoZtqZdRpSsJnSnFMIFy4&usqp=CAU" width="50"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg/1920px-Logo-ubuntu_no%28r%29-black_orange-hex.svg.png" height="50"></a>
   &nbsp;&nbsp;
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="50"></a>
   &nbsp;&nbsp;
