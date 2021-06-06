@@ -5,7 +5,7 @@
   I am Vivekananda Yadla ✌ 
 </h1>
 <p align='center'>
-I am currently a Student at <a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/330px-Indian_Institute_of_Technology_Delhi_Logo.svg.png" width="30"></a> IIT Delhi
+I am currently an UG Student at <a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/330px-Indian_Institute_of_Technology_Delhi_Logo.svg.png" width="30"></a> IIT Delhi
 </p>
 
 <p align='center'>
@@ -34,6 +34,10 @@ I am currently a Student at <a href="#"><img src="https://upload.wikimedia.org/w
   &nbsp;&nbsp;
   <a href="#"><img src="https://img.pngio.com/buy-adobe-education-contact-multiblue-and-receive-discounts-for-is-there-png-in-adobe-illustrator-600_600.png" width="50"></a>
   &nbsp;&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png" width="50"></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/1024px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="50"></a>
+  &nbsp;&nbsp;
   <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1guba_kk8uVqGpe53br7MPAw3GxyFs6BqQSRa8O7FJx3j6fhoZtqZdRpSsJnSnFMIFy4&usqp=CAU" width="50"></a>
   &nbsp;&nbsp;
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="50"></a>
@@ -41,6 +45,8 @@ I am currently a Student at <a href="#"><img src="https://upload.wikimedia.org/w
   <a href="#"><img src="https://play-lh.googleusercontent.com/m3oqSZCwmitiZ-Im-CQu_rqT5eLHilOp5IudBynv3COJUumFzuQaP2dgTDxRL_03f4x2=s180-rw" width="50"></a>
   &nbsp;&nbsp;
   <a href="#"><img src="https://vulndetect.org/assets/uploads/files/1541583181315-cygwin-terminal.ico" width="50"></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FreeCAD016-logo.svg/800px-FreeCAD016-logo.svg.png" width="50"></a>
   &nbsp;&nbsp;
 </p>
 
