@@ -34,9 +34,9 @@ I am currently a Student at IIT Delhi
   &nbsp;&nbsp;
   <a href="#"><img src="https://img.pngio.com/buy-adobe-education-contact-multiblue-and-receive-discounts-for-is-there-png-in-adobe-illustrator-600_600.png" width="50"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://www.clipartmax.com/png/middle/180-1805592_ubuntu-logo-clipart-ubuntu-transparent.png" width="50"></a>
+  <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1guba_kk8uVqGpe53br7MPAw3GxyFs6BqQSRa8O7FJx3j6fhoZtqZdRpSsJnSnFMIFy4&usqp=CAU" width="50"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="" width="50"></a>
+  <a href="#"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2013/240/iconmonstr-linux-os-4.png" width="50"></a>
   &nbsp;&nbsp;
   <a href="#"><img src="https://play-lh.googleusercontent.com/m3oqSZCwmitiZ-Im-CQu_rqT5eLHilOp5IudBynv3COJUumFzuQaP2dgTDxRL_03f4x2=s180-rw" width="50"></a>
   &nbsp;&nbsp;
@@ -50,23 +50,21 @@ I am currently a Student at IIT Delhi
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href="mailto:vivekanandayadla@gmail.com" target="_blank" rel="noopener noreferrer">vivekanandayadla@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  📫 How to reach me: <a href="mailto:vivekanandayadla@gmail.com" target="_blank" rel="noopener noreferrer">vivekanandayadla@gmail.com</a>
 </p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/vivekananda-yadla/" target="_blank"> 
-    <img class="icon-social m-2" src="https://iconmonstr.com/linkedin-4-svg/" alt="LinkedIn"/>
+    <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-4.png" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_dumb_physicist_/" target="_blank"> 
-   <img class="icon-social m-2" src="https://iconmonstr.com/instagram-14-svg/" alt="Instagram"/>     
-  </a>
+   <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-instagram-14.png" alt="Instagram"/>     
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/vivekanandayadla/" target="_blank"> 
-   <img class="icon-social m-2" src="https://iconmonstr.com/facebook-4-svg/" alt="Facebook"/>     
-  </a>
+   <img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-facebook-4.png" alt="Facebook"/>     
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://twitter.com/NoobCoder14" target="_blank"> 
-   <img class="icon-social m-2" src="https://iconmonstr.com/twitter-4-svg/" alt="Twitter"/>     
+   <imgsrc="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-4.png" alt="Twitter"/>     
   </a>
 </p>
-<p align='center'style="color:blue">
-LinkedIn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram
-</p>
+
