@@ -32,7 +32,7 @@ I am currently an UG Student at <a href="#"><img src="https://upload.wikimedia.o
   &nbsp;&nbsp;
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/768px-Adobe_Photoshop_Express_logo.svg.png" width="50"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://img.pngio.com/buy-adobe-education-contact-multiblue-and-receive-discounts-for-is-there-png-in-adobe-illustrator-600_600.png" width="50"></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1024px-Adobe_Illustrator_CC_icon.svg.png" width="50"></a>
   &nbsp;&nbsp;
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png" width="53"></a>
   &nbsp;&nbsp;
