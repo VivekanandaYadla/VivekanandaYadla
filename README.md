@@ -70,8 +70,4 @@ I am currently an UG Student at <a href="#"><img src="https://upload.wikimedia.o
    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_Logo_as_of_2021.svg/1024px-Twitter_Logo_as_of_2021.svg.png" width="40" alt="Twitter" class="rounded-corners"/>     
   </a>
 </p>
-<div class="container center">
-    <div class="container center">
-      <a href="#"><i class="fab fa-instagram fa-2x"></i></a>
-     </div>  
-</div>
+
