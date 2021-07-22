@@ -44,6 +44,8 @@ I am currently an UG Student at <a href="#"><img src="https://upload.wikimedia.o
   &nbsp;&nbsp;
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FreeCAD016-logo.svg/800px-FreeCAD016-logo.svg.png" width="50"></a>
   &nbsp;&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="50"></a>
+  &nbsp;&nbsp;
 </p>
 
 <p align='center'>
