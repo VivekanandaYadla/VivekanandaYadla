@@ -49,7 +49,7 @@ I am currently an UG Student at <a href="https://home.iitd.ac.in/"><img src="htt
 </p>
 
 <p align='center'>
-  <a href="#"><img src=""></a>
+  <a href="#"><img src="https://badges.pufler.dev/repos/vivekanandayadla"></a>
   <a href="#"><img src="https://badges.pufler.dev/years/vivekanandayadla"></a>
 </p>
 
