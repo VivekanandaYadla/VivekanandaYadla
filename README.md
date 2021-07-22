@@ -5,7 +5,7 @@
   I am Vivekananda Yadla ✌ 
 </h1>
 <p align='center'>
-I am currently an UG Student at <a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/330px-Indian_Institute_of_Technology_Delhi_Logo.svg.png" width="30"></a> IIT Delhi
+I am currently an UG Student at <a href="https://home.iitd.ac.in/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/330px-Indian_Institute_of_Technology_Delhi_Logo.svg.png" width="30"></a> IIT Delhi
 </p>
 
 <p align='center'>
