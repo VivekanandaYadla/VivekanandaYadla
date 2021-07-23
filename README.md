@@ -56,6 +56,10 @@ I am currently an UG Student at <a href="https://home.iitd.ac.in/"><img src="htt
 <p align='center'>
   📫 How to reach me: <a href="mailto:vivekanandayadla@gmail.com">vivekanandayadla@gmail.com</a>
 </p>
+<details>
+<summary>Also reach me at:</summary>
+<br>
+
 
 <p align='center'>
 
@@ -72,4 +76,4 @@ I am currently an UG Student at <a href="https://home.iitd.ac.in/"><img src="htt
    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_Logo_as_of_2021.svg/1024px-Twitter_Logo_as_of_2021.svg.png" width="40" alt="Twitter" class="rounded-corners"/>     
   </a>
 </p>
-
+</details>
