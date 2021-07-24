@@ -52,12 +52,21 @@ I am currently an UG Student at <a href="https://home.iitd.ac.in/"><img src="htt
   <a href="#"><img src="https://badges.pufler.dev/repos/vivekanandayadla"></a>
   <a href="#"><img src="https://badges.pufler.dev/years/vivekanandayadla"></a>
 </p>
+<h align='center'>
+Read my Gitbook blogs here :
+<p align='center'>
+<a href="https://yadlavivekananda.gitbook.io/how-to/"><img src="http://acesubido.com/wp-content/uploads/2019/09/learn-to-code.png" height="50"></a>
+  &nbsp;&nbsp;
+<a href="https://yadlavivekananda.gitbook.io/resources/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cio-8NNl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/2w29biv5tuagz0p7r2ia.png" height="50"></a>
+  &nbsp;&nbsp;
 
+</p>
+</h>
 <p align='center'>
   📫 How to reach me: <a href="mailto:vivekanandayadla@gmail.com">vivekanandayadla@gmail.com</a>
 </p>
 <details>
-<summary>Also reach me at:</summary>
+<summary>Also reach me at:( Added a Dropdown Just for fun :P  )</summary>
 <br>
 
 
