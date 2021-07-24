@@ -52,13 +52,13 @@ I am currently an UG Student at <a href="https://home.iitd.ac.in/"><img src="htt
   <a href="#"><img src="https://badges.pufler.dev/repos/vivekanandayadla"></a>
   <a href="#"><img src="https://badges.pufler.dev/years/vivekanandayadla"></a>
 </p>
-# Read my GitBook Blogs:
+### Read my GitBook Blogs:
 
->[1)How to start coding from scratch](https://yadlavivekananda.gitbook.io/how-to/)
->[2)Coding resources for beginners](https://yadlavivekananda.gitbook.io/resources/)
->[3)Additional Learning Courses to improve your skills !](https://yadlavivekananda.gitbook.io/how-to/additional-learning)
->[4) Books I recommend.. ](https://yadlavivekananda.gitbook.io/how-to/additional-books)
->[5)My DSA(Data Structures and Algo) Guide](https://yadlavivekananda.gitbook.io/how-to/dsa-datastructures-and-algo)
+>[1)How to start coding from scratch](https://yadlavivekananda.gitbook.io/how-to/)<br>
+>[2)Coding resources for beginners](https://yadlavivekananda.gitbook.io/resources/)<br>
+>[3)Additional Learning Courses to improve your skills !](https://yadlavivekananda.gitbook.io/how-to/additional-learning)<br>
+>[4) Books I recommend.. ](https://yadlavivekananda.gitbook.io/how-to/additional-books)<br>
+>[5)My DSA(Data Structures and Algo) Guide](https://yadlavivekananda.gitbook.io/how-to/dsa-datastructures-and-algo)<br>
 
 <p align='center'>
   📫 How to reach me: <a href="mailto:vivekanandayadla@gmail.com">vivekanandayadla@gmail.com</a>
