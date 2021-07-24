@@ -52,7 +52,7 @@ I am currently an UG Student at <a href="https://home.iitd.ac.in/"><img src="htt
   <a href="#"><img src="https://badges.pufler.dev/repos/vivekanandayadla"></a>
   <a href="#"><img src="https://badges.pufler.dev/years/vivekanandayadla"></a>
 </p>
-### Read my GitBook Blogs:
+Read my GitBook Blogs:
 
 >[1)How to start coding from scratch](https://yadlavivekananda.gitbook.io/how-to/)<br>
 >[2)Coding resources for beginners](https://yadlavivekananda.gitbook.io/resources/)<br>
