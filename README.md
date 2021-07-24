@@ -5,7 +5,7 @@
   I am Vivekananda Yadla ✌ 
 </h1>
 <p align='center'>
-I am currently an UG Student at <a href="https://home.iitd.ac.in/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/330px-Indian_Institute_of_Technology_Delhi_Logo.svg.png" width="30"></a> IIT Delhi<br> I do coding for fun, It all started back when I found I can Spam whatsapp with simple Pyhton code and Then The real fun started I started digging and all that I got is bits of Code  :p
+I am currently an UG Student at <a href="https://home.iitd.ac.in/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Indian_Institute_of_Technology_Delhi_Logo.svg/330px-Indian_Institute_of_Technology_Delhi_Logo.svg.png" width="30"></a> IIT Delhi<br> I do coding for fun, It all started back when I found I can Spam whatsapp with simple Python code and Then The real fun started I started digging and all that I got is bits of Code  :p
 </p>
 
 <p align='center'>
