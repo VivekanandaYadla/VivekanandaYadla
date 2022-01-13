@@ -80,7 +80,7 @@ Read my GitBook Blogs:
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/800px-Facebook_f_logo_%282019%29.svg.png" width="40"alt="Facebook"/>     
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://twitter.com/NoobCoder14" target="_blank"> 
-   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_Logo_as_of_2021.svg/1024px-Twitter_Logo_as_of_2021.svg.png" width="40" alt="Twitter" class="rounded-corners"/>     
+   <img src="https://img.search.brave.com/SchlFsIkC5Ht4PRC7flT-0Gg39qX96FVyQO0SpgkOlI/fit/583/225/ce/1/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5v/MDZzbldoNUc0TFEx/ZkpiTmxhcnBBSGFH/QiZwaWQ9QXBp" width="40" alt="Twitter" class="rounded-corners"/>     
   </a>
 </p>
 </details>
